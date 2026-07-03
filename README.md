@@ -1,9 +1,10 @@
-# docs
 Documentation, architecture, roadmaps and project planning.
 
-# Blackbone Lantern Documentation
+---
 
-This repository contains the documentation for Blackbone Lantern projects.
+Welcome to the documentation repository for **Blackbone Lantern**.
+
+This repository contains architecture decisions, project planning, roadmaps, development standards and technical documentation for all Blackbone Lantern projects.
 
 ## Contents
 
