@@ -1,6 +1,4 @@
-Documentation, architecture, roadmaps and project planning.
-
----
+# Blackbone Lantern Documentation
 
 Welcome to the documentation repository for **Blackbone Lantern**.
 
