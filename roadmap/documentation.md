@@ -1,20 +1,15 @@
 # Documentation Roadmap
 
-## Vision
+## Planned
 
-Provide a central documentation platform for all Blackbone Software projects.
+- Engineering Playbook
+- ADRs
+- Product Documentation
 
-The documentation should eventually be published as a documentation website using GitHub Pages.
-
-Potential technologies:
+## Future
 
 - GitHub Pages
 - MkDocs Material
-
-Goals:
-
-- searchable
-- versioned
-- mobile friendly
-- dark mode
-- generated from Markdown
+- Full-text search
+- Versioned documentation
+- Custom domain (docs.blackbonelantern.com)
