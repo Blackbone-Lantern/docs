@@ -16,3 +16,4 @@ This repository contains architecture decisions, project planning, roadmaps, dev
 ---
 
 Documentation evolves together with our projects.
+Every architectural decision should be understandable, intentional and documented.
