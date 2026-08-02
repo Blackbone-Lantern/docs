@@ -6,12 +6,12 @@ This repository contains architecture decisions, project planning, roadmaps, dev
 
 ## Contents
 
-- 🏗️ Architecture
+- 🏗 Architecture
 - 📋 Project Planning
-- 🛣️ Roadmaps
+- 🗺 Roadmaps
 - 💡 Ideas
-- 📐 Development Standards
-- 📝 Architecture Decision Records (ADRs)
+- 📘 [Engineering Playbook](engineering/README.md)
+- 📄 [Architecture Decision Records (ADRs)](adr/README.md)
 
 ---
 
