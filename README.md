@@ -17,5 +17,22 @@ This repository contains architecture decisions, project planning, roadmaps, dev
 
 Documentation evolves together with our projects.
 
-> **Engineering Principle #1**  
-> Every architectural decision should be understandable, intentional and documented.
+# Engineering Philosophy
+
+Blackbone Software builds products with a long-term mindset.
+
+We understand before we optimize.
+
+We prefer clarity over cleverness.
+
+We value understandable architecture over unnecessary complexity.
+
+We document decisions so they remain understandable months and years later.
+
+Every rule should solve a real problem.
+
+We choose technologies because they solve problems—not because they are fashionable.
+
+Software is never finished. It continuously evolves together with its users and developers.
+
+Build intentionally.
