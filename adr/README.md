@@ -10,6 +10,14 @@ Each ADR explains:
 - the reasoning behind the decision
 - the consequences
 
-ADRs are immutable historical records.
+---
 
-If a decision changes, a new ADR supersedes the previous one.
+## Index
+
+| ADR | Status | Title |
+|-----|--------|-------|
+| 0001 | ✅ Accepted | Blackbone Software Engineering Philosophy |
+
+---
+
+New ADRs should be created from `template.md`.
